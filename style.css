@@ -1,0 +1,149 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+.navbar-custom{
+    background-color: #282e3e;
+    color:#FFF;
+    border-radius: 0px;
+    padding: 10px;
+}
+.navbar-custom .navbar-nav>li>a{
+    color:#fff;
+    font-size: 19px;
+    margin-left: 13px;
+}
+.navbar-custom .navbar-nav>.active>a{
+    color:#fff; 
+    background-color: #82c434;
+}
+
+.navbar-custom .navbar-nav>li>a:hover{
+    background-color: #82c434;
+}
+.navbar-custom .navbar-brand{
+   color: #fff;
+   font-size:27px;
+   margin-left: 15px;
+}
+.navbar-custom .navbar-brand:hover{
+    color: #fff;
+    font-size:27px;  
+ }
+ .slider{
+     width: 100%;
+     padding: 0px;
+     margin: 0px;
+ }
+ .carousel-caption {
+   color: rgb(7, 5, 5);
+   position: absolute;
+   top:15%;
+   left:-380px; 
+ }
+ .carousel-caption1 {
+    color: #fff;
+    position: absolute;
+    top:15%;
+    left:30px; 
+  }
+ b {
+
+    font-size: 40px;
+    border-bottom-style: ridge;
+    font-weight:bold;
+    border-bottom-color: #82c434;
+ }
+ #Services {
+     font-size: 35px;
+     border-bottom-style: ridge;
+     font-weight: bold;
+     border-bottom-color: #82c434;
+     text-align: center;
+     margin-left: 440px;
+
+
+ }
+ .col1{
+     border-style:solid;
+     border-color:#999999;
+     border-width:1px;
+     min-height: 450px; 
+ }
+ .icons{
+     margin-left: 85px; 
+     width: 75px;
+     font-size: 60px;
+     background-color: #d9d9d9;
+     padding:5px;
+
+     height: 90px;
+     margin-top: -50px;
+     color: #82c434;
+ }
+
+.btn-primary {
+    margin-left:80px;
+    background-color: #82c434; 
+    border-radius: 0px;
+    border-color: #82c434;
+    margin-top:10px;
+}
+
+.icons2{
+    margin-left: 85px; 
+     width: 75px;
+     font-size: 60px;
+     background-color: #d9d9d9;
+     padding-left: 22px;
+    
+     height: 90px;
+     margin-top: -50px;
+     color: #82c434;
+}
+#about {
+    width: 100%;
+    min-height: 600px;
+    background-color: #282e3e;
+    margin-top: 50px;
+}
+#Aboutcompany{
+    font-size: 40px;
+    border-bottom-style: ridge;
+    border-bottom-color: #82c434;
+    position: relative;
+    top: 40px; 
+    color:#fff;
+    
+}
+.progress {
+    width: 100%;
+    background-color: #ddd;
+    height: 10%;
+   
+  }
+
+  .skills {
+    text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    color: white;
+
+  }
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
